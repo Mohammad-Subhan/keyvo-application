@@ -1,2 +1,2 @@
 # Keyvo
-## Password managing mobile application
+Password managing mobile application
